@@ -4,6 +4,6 @@ class Teacher < User #inherits the User (parent/super class)
 
 
 def teach 
-  KNOWLEDGE.sample 
+  KNOWLEDGE.sample #returns a random string of knowledge 
 end 
 end 
