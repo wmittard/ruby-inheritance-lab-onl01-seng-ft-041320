@@ -5,12 +5,4 @@ def initialize(knowledge)
   @knowledge = knowledge
 end 
 
-
-
-
-
-
-
-
-
 end
